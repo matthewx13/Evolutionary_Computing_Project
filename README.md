@@ -1,2 +1,1 @@
-# Evolutionary_Computing_Project
-hw3 for ds3500
+# DS3500-HW3---Resource-Allocation-with-Evolutionary-Computing
